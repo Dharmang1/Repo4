@@ -1,0 +1,15 @@
+{
+  "name": "mobileshopping",
+  "version": "1.0.0",
+  "description": "In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch ./style/scss/fileName.scss:src/stylecd /css"
+  },
+  "author": "maryann mweru",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.75.0"
+  }
+}
